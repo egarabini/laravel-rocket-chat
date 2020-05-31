@@ -1,5 +1,5 @@
 {
-    "name": "timetorock/laravel-rocket-chat",
+    "name": "egarabini/laravel-rocket-chat",
     "description": "Rocket Chat REST API client for Laravel 7.x.",
     "license": "MIT",
     "type": "library",
