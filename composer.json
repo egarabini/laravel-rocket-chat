@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Timetorock\\LaravelRocketChat\\": "src"
+            "egarabini\\LaravelRocketChat\\": "src"
         }
     }
 }
