@@ -1,6 +1,6 @@
 {
     "name": "timetorock/laravel-rocket-chat",
-    "description": "Rocket Chat REST API client for Laravel 6.x.",
+    "description": "Rocket Chat REST API client for Laravel 7.x.",
     "license": "MIT",
     "type": "library",
     "keywords": ["laravel", "rocket-chat-laravel", "rocket-chat", "api-client"],
@@ -12,7 +12,7 @@
     ],
     "prefer-stable": true,
     "require": {
-        "illuminate/support": "^6.0",
+        "illuminate/support": "^7.0",
         "nategood/httpful": "*",
         "symfony/http-foundation": "^4.4.7"
     },
