@@ -3,7 +3,7 @@ laravel-rocket-chat is a rest client package for Laravel to communicate with Roc
 ## How to install
 
 ``` bash
-composer require timetorock/laravel-rocket-chat
+composer require egarabini/laravel-rocket-chat
 ```
 
 ## Config && Facades
